@@ -1,13 +1,8 @@
 ---
-layout: default
 title: Chun Yang
 position: Research Assistant
 affiliation: ENCODE Lab, Westlake University
 email: yangchun@westlake.edu.cn
-
-keywords: Chun Yang, Efficient AI, Time Series, Underwater Image Enhancement, Computer Vision, 3D Reconstruction
-description: Chun Yang is a Research Assistant at ENCODE Lab, Westlake University, focusing on Efficient AI, Time Series Analysis, and Computer Vision.
-canonical: https://chuny9743.github.io/
 
 google_scholar: D_pszsIAAAAJ
 cv_link: assets/files/curriculum_vitae.pdf
@@ -15,26 +10,6 @@ github_link: https://github.com/chuny9743
 twitter: chunyang242872
 
 avatar: ./assets/img/avatar.png
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
-
-enable_footnote: true
-auto_dark_mode: true
-font: "Serif"
-
-google_analytics: UA-111540567-4
-remote_theme: yaoyao-liu/minimal-light
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - README_zh_Hans.md
-  - README_zh_Hant.md
-  - README_de.md
-  - LICENSE
-  - minimal-light.gemspec
-  - html_source_file/
 ---
 
 ## About
@@ -89,52 +64,6 @@ Research on <b>Efficient AI and Time Series Analysis</b>
 <i>Sep. 2024 – Feb. 2025</i>  
 Supervisor: <a href="https://zkgyy.bnu.edu.cn/yjjg/rgznywlwlyjywy/rcdwdh/f53f9ed26e914cae904594b4a7d3d67d.htm" target="_blank">Prof. Weijia Jia</a>  
 Research on <b>3D Scene Reconstruction and Unitree GO2 Autonomous Inspection</b>
-
----
-
-## Publications
-
-- <b>Z. Wang, D. Zhou, Z. Li, Z. Yuan, C. Yang</b>.  
-  <i>Underwater Image Enhancement via Adaptive Color Correction and Stationary Wavelet Detail Enhancement</i>.  
-  IEEE Access, 2024.
-
-- <b>C. Yang, H. Xie, J. Wang, H. Liang, Y. Zhang, Y. Deng</b>.  
-  <i>Aquaae: A Lightweight Deep Learning Network for Underwater Image Restoration</i>.  
-  ICMLIC, 2024.
-
-- <b>C. Yang, L. Shao, Y. Deng, J. Wang, H. Zhai</b>.  
-  <i>SwinCNet Leveraging Swin Transformer V2 and CNN for Precise Color Correction and Detail Enhancement in Underwater Image Restoration</i>.  
-  Frontiers in Marine Science, 2025.
-
-- <b>T. Wang, E. Zhang, Y. Ma, Y. Wang, Y. Lai, Z. Wang, Z. Yuan, C. Yang</b>.  
-  <i>Research on Underwater Image Enhancement Algorithm Based on Physical Model</i>.  
-  ICOCT, 2023.
-
-- <b>Y. Deng, Z. Chen, C. Yang, S. Zhou, W. Qiu, Y. Xu, Z. Huang</b>.  
-  <i>Optimizing Underwater Image Quality Through Dynamic Feature Fusion Techniques in SwinFusionNet</i>.  
-  2025.
-
-- <b>C. Yang, H. Zhao, W. Qiu, Y. Deng, C. Chen, S. Hao, W. Zhou</b>.  
-  <i>Building Change Detection Method Based on Multiscale Feature Fusion and Uncertainty Awareness</i>.  
-  2025.
-
-- <b>W. Zhou, J. Tang, C. Yang, H. Huang, Y. Chen, Z. Li</b>.  
-  <i>GAN Adversarial Network-Based De-Fogging of Underwater Images</i>.  
-  2025.
-
-- <b>J. Wang, L. Wang, C. Yang, J. Chen, Z. Wang, Z. Yuan</b>.  
-  <i>A Model for Underwater Image Restoration Based on Color Information</i>.  
-  IEEE RICAI, 2023.
-
----
-
-## Honors & Awards
-
-- China International College Students’ Innovation Competition (2024), <b>Provincial Bronze Award</b>  
-- 14th “Challenge Cup” Guangdong University Student Entrepreneurship Competition, <b>Provincial Gold Award</b>  
-- 18th “Challenge Cup” National College Student Academic Competition (Black Technology), <b>National Second Prize</b>  
-- 17th “Challenge Cup” Guangdong College Student Academic Competition, <b>Provincial Second Prize</b>  
-- China “Internet+” Innovation Competition (2023), <b>Provincial Bronze Award</b>
 
 ---
 
