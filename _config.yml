@@ -1,29 +1,48 @@
----
-layout: default
+# Basic Information
 title: Chun Yang
 position: Research Assistant
 affiliation: ENCODE Lab, Westlake University
 email: yangchun@westlake.edu.cn
 
+# Search Engine Optimization (SEO)
 keywords: Chun Yang, Efficient AI, Time Series, Underwater Image Enhancement, Computer Vision, 3D Reconstruction
-description: Chun Yang is a Research Assistant at ENCODE Lab, Westlake University, focusing on Efficient AI, Time Series Analysis, and Computer Vision.
+description: Chun Yang is a Research Assistant at ENCODE Lab, Westlake University.
 canonical: https://chuny9743.github.io/
 
+# Links
 google_scholar: D_pszsIAAAAJ
 cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/chuny9743
-linkedin: https://www.linkedin.com/
 twitter: chunyang242872
 
+# Images
 avatar: ./assets/img/avatar.png
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
+# Footnote
 enable_footnote: true
+
+# Auto Dark Mode
 auto_dark_mode: true
-font: "Serif"
 
+# Font
+font: "Serif" # or "Sans Serif"
+
+# Google Analytics
 google_analytics: UA-111540567-4
-remote_theme: yaoyao-liu/minimal-light
----
 
+# Theme
+remote_theme: yaoyao-liu/minimal-light
+
+# Exclude
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - README_zh_Hans.md
+  - README_zh_Hant.md
+  - README_de.md
+  - LICENSE
+  - minimal-light.gemspec
+  - html_source_file/
