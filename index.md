@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About
+## About Me
 
 I am currently a Research Assistant at [ENCODE Lab](https://westlake-encode-lab.github.io/), [Westlake University](https://en.westlake.edu.cn/), supervised by [Prof. Huan Wang](https://huanwang.tech/).  
 My research focuses on **Efficient AI** and **Time Series Analysis**, with interests in computer vision and intelligent systems.
@@ -34,20 +34,16 @@ My work mainly focused on **3D Scene Reconstruction** and **autonomous inspectio
 
 **Research Assistant**, ENCODE Lab, Westlake University  
 Sep. 2025 – Present  
-Supervisor: Prof. Huan Wang  
-
----
 
 **Research Assistant**, Institute of Advanced Studies in Natural Sciences, Beijing Normal University  
 Sep. 2024 – Feb. 2025  
-Supervisor: Prof. Weijia Jia  
 
 ---
 
 ## Contact
 
 - Email: yangchun@westlake.edu.cn  
-- GitHub: [https://github.com/chuny9743](https://github.com/chuny9743)  
-- HuggingFace: [https://huggingface.co/chuny9743](https://huggingface.co/chuny9743)  
-- X (Twitter): [https://x.com/chunyang242872](https://x.com/chunyang242872)  
-- Google Scholar: [https://scholar.google.com/citations?user=D_pszsIAAAAJ](https://scholar.google.com/citations?user=D_pszsIAAAAJ)
+- GitHub: https://github.com/chuny9743  
+- HuggingFace: https://huggingface.co/chuny9743  
+- X (Twitter): https://twitter.com/chunyang242872  
+- Google Scholar: https://scholar.google.com/citations?user=D_pszsIAAAAJ
