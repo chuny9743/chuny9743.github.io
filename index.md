@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ## About
 
 I am currently a Research Assistant at [ENCODE Lab](https://westlake-encode-lab.github.io/), [Westlake University](https://en.westlake.edu.cn/), supervised by [Prof. Huan Wang](https://huanwang.tech/).  
